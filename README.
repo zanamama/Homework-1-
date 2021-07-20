@@ -1,7 +1,7 @@
 **Refactor Homework for Coding Course**
-This homework gives students the ability to create a functional one page website that has an aside, header, nav, sections and a footer. The site is built on HTML & CSS, and before beginning the assignment, there was initial code from the teacher to get us started.
+## This is my first homework assignment with this coding bootcamp. This homework gives students the ability to create a functional one page website that has an aside, header, nav, sections and a footer. The site is built on HTML & CSS, and before beginning the assignment, there was initial code from the teacher to get us started.
 
-The motivation for this project comes from wanting a great grade in my Columbia University class. In order for me to become a strong developer, lots of practice and use tactics must go into my creations. I could argue that I've been a front end developer for two years and now is the time where I have the time to grow and strengthen new coding skill. So here we are! An HTML digital marketing project page.
+#The motivation for this project comes from wanting a great grade, in addition to having a chance to hone in on the skills I'll need to be an excellent react js developer. Lots of practice and use tactics must go into my creations, so this file will be updated over time. I could argue that I've been a front end developer for two years and now is the time where I have the time to grow and strengthen new coding skill. So here we are! An HTML digital marketing project page.
 
 Currently, this site is bare bones. Code style: standard. No screenshots are available because the site's simplicity does not necessitate such.
 
@@ -11,6 +11,9 @@ You run this program by clicking on the action link below. No further steps are 
 
 Here's how you can run tests.
 
-Finally, we welcome your contributions to our project. If interested, please review our contributing guideline here.
+##Finally, we welcome your contributions to our project. If interested, please review our contributing guideline here.
 
-Special thanks to Teacher 1 and Teacher two for helping me to get this far so fast. As I grow with you, I thank you.
+Special thanks to Ben & my classmates for helping me to get this far so fast. As I grow with you, I thank you.
+
+Link: https://github.com/zanamama/Homework-1-Refactor
+URL: https://zanamama.github.io/Homework-1-Refactor/ 
